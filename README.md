@@ -1,4 +1,6 @@
 # project-x
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ftkduman%2Fproject-x.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Ftkduman%2Fproject-x?ref=badge_shield)
+
 This is a small terminal MMO for Windows. It's under development, I add something to this almost daily.
 
 This project uses following external libraries & headers:
@@ -57,3 +59,7 @@ _If you somehow get the auto-healing item, in the options menu a new option will
 * If you're having an issue or if you have a feedback request, please do use [Issues](https://github.com/tkduman/project-x/issues) section.
 * Feel free to contribute to the code. I'll review and apply every single bit that improves this project.
 * You can find a playable/working version in the [Releases](https://github.com/tkduman/project-x/releases) section.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ftkduman%2Fproject-x.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Ftkduman%2Fproject-x?ref=badge_large)
