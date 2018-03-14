@@ -1,14 +1,15 @@
 # project-x
 This is a small terminal MMO for Windows. It's under development, I add something to this almost daily.
 
-This project uses following external libraries:
+This project uses following external libraries & headers:
 * Boost (boost_1_65_1)
 * pdcurses (v 1.295 2008/07/15 17:13:25)
 * cppconn (MySQL Connector C++ 1.1.9)
+* duman.h (https://github.com/tkduman/duman.h)
 
 Everything else is regular Windows API.
 
----
+_PS: I've built this project in Microsoft Visual Studio 2017, I recommend doing the very same, but of course you're free to use any platform you like._
 
 # Setup
 
